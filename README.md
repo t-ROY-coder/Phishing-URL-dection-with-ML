@@ -1,2 +1,2 @@
-# Phishing-URL-dection-with-ML
+# Phishing-URL-detection-with-ML
 Detection of phishing URLs in python using Neural Network model
